@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in South Dakota, US",
+  "export_job_id": "47fa1214-d09c-4b6a-a0ef-32e2c5e34f7a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 486562,
+  "location_name": "South Dakota",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-south-dakota-us-sample-486562",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/486562/beamstation_486562_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_pct": 5.88,
+  "sample_records": 1,
+  "sample_sha256": "ca7c2531495c622a6fcc718b103eb7019411f10e607e21522bdf5c1a9c1683e4",
+  "sample_size_bytes": 19128,
+  "total_records": 17,
+  "updated_at": "2026-04-08T04:30:18.555037+00:00"
+}
