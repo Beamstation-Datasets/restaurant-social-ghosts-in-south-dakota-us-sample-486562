@@ -9,9 +9,9 @@
 | Dataset ID | `486562` |
 | Location | South Dakota |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-08T04:30:18.555037+00:00 |
+| Full dataset size | 18 records |
+| Free sample size | 1 records (5.56%) |
+| Last export | 2026-04-15T09:05:31.925128+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-south-dakota-us-sample-486562/releases/download/sample-latest/beamstation_486562_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
