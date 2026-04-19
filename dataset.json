@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in South Dakota, US",
-  "export_job_id": "47fa1214-d09c-4b6a-a0ef-32e2c5e34f7a",
+  "export_job_id": "29e84517-def0-4873-a1e3-2b81b032e9c6",
   "github_org": "Beamstation-Datasets",
   "id_short": 486562,
   "location_name": "South Dakota",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-south-dakota-us-sample-486562",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/486562/beamstation_486562_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_pct": 5.88,
+  "sample_pct": 5.56,
   "sample_records": 1,
-  "sample_sha256": "ca7c2531495c622a6fcc718b103eb7019411f10e607e21522bdf5c1a9c1683e4",
-  "sample_size_bytes": 19128,
-  "total_records": 17,
-  "updated_at": "2026-04-08T04:30:18.555037+00:00"
+  "sample_sha256": "40bfb8e4db6d41c3ec4bb6d578078faac5eb9a4ae45fb2536b3459fb38b00046",
+  "sample_size_bytes": 19143,
+  "total_records": 18,
+  "updated_at": "2026-04-15T09:05:31.925128+00:00"
 }
