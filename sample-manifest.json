@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a316fe13-e4f5-40d0-95c5-106646875c57",
+  "export_job_id": "e772c73e-322f-4872-b806-0d857ac4d8ab",
   "id_short": 486562,
-  "published_at": "2026-04-22T19:47:47Z",
+  "published_at": "2026-04-30T07:30:04Z",
   "repo_name": "restaurant-social-ghosts-in-south-dakota-us-sample-486562",
   "sample_asset_name": "beamstation_486562_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/486562/beamstation_486562_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "73c2ba5c53a1792b2b96686901e6dde91ede7dafc386e9468a4f0bf5e207f5fb",
-  "sample_size_bytes": 18573,
-  "total_records": 3
+  "sample_records": 2,
+  "sample_sha256": "de2c0c535d3abfc780766cba1badd474154198cf8661b933d4207504de13c674",
+  "sample_size_bytes": 23773,
+  "total_records": 23
 }
